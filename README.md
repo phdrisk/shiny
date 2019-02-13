@@ -1,0 +1,2 @@
+# shiny
+configuracoes do shiny
